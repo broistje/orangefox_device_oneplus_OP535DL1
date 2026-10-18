@@ -19,12 +19,8 @@ PRODUCT_PACKAGES += \
     android.hardware.boot@1.0-service
 
 PRODUCT_PACKAGES += \
-    bootctrl.holi
-
-    bootctrl.holi \
-    libgptutils \
-    libz \
-    libcutils
+    package_one \
+    package_two
 
 PRODUCT_PACKAGES += \
     otapreopt_script \
