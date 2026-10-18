@@ -46,7 +46,7 @@ TARGET_NO_BOOTLOADER := true
 TARGET_SCREEN_DENSITY := 450
 
 # Kernel
-BOARD_BOOTIMG_HEADER_VERSION := 3
+BOARD_BOOTIMG_HEADER_VERSION := 4
 BOARD_KERNEL_BASE := 0x00000000
 BOARD_KERNEL_CMDLINE := androidboot.hardware=qcom androidboot.memcg=1 androidboot.usbcontroller=4e00000.dwc3 cgroup.memory=nokmem,nosocket loop.max_part=7 lpm_levels.sleep_disabled=1 msm_rtb.filter=0x237 reboot=panic_warm service_locator.enable=1 swiotlb=0 iptable_raw.raw_before_defrag=1 ip6table_raw.raw_before_defrag=1
 BOARD_KERNEL_PAGESIZE := 4096
