@@ -1,5 +1,6 @@
 export FOX_BUILD_DEVICE="OP535DL1"
-export OF_MAINTAINER="YourName"
+export OF_MAINTAINER="@Broistje
+                          unofficial"
 export FOX_VIRTUAL_AB_DEVICE=1
 export OF_SCREEN_H=2412
 export OF_STATUS_H=100
@@ -10,3 +11,5 @@ export FOX_NO_TREBLE_COMPATIBILITY_CHECK=1
 export OF_ADVANCED_SECURITY=1
 export FOX_ENABLE_APP_MANAGER=1
 export FOX_MAINTAINER_PATCH_VERSION="1"
+export FOX_VIRTUAL_AB_DEVICE=1
+export FOX_RECOVERY_INSTALL_PARTITION="vendor_boot"
