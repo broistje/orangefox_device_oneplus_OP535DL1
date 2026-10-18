@@ -21,7 +21,6 @@ PRODUCT_PACKAGES += \
 PRODUCT_PACKAGES += \
     bootctrl.holi
 
-PRODUCT_STATIC_BOOT_CONTROL_HAL := \
     bootctrl.holi \
     libgptutils \
     libz \
